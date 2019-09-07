@@ -1,8 +1,8 @@
 {
-  "name": "psLib",
-  "version": "1.0.0",
+  "name": "pslib",
+  "version": "1.0.1",
   "description": "psLib base on AlloyPhoto",
-  "main": "dist/index.js",
+  "main": "dist/pslib.min.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.config.js",
     "build": "webpack --colors --progress --hide-modules --config webpack.dist.config.js --display-error-details"

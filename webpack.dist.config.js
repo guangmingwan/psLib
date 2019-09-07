@@ -9,7 +9,7 @@ module.exports = {
     entry: './src/lib/index',
     output: {
         path: __dirname + "/dist/",
-        filename: 'psLib.min.js',
+        filename: 'pslib.min.js',
         libraryTarget: 'umd'
     },
     module: {
